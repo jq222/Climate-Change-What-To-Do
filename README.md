@@ -61,10 +61,8 @@ https://www.greenpeace.org/archive-international/en/campaigns/climate-change/Sol
 
 Think Progress https://thinkprogress.org/scientists-defend-ocasio-cortez-12-year-ipcc-science-climate-warning-9daee90fae7b/
 
-```
-The world’s failure to reverse emissions this decade means that instead of having 20 years — 2010 to 2030 — to cut emissions some 25 percent, we now have 12 years to cut CO2 emissions more than 30 percent.
-```
 
-```
-Here’s one way to frame the urgency: If the world does not make substantial and sustained progress in cutting total global warming emissions by 2030, then the window will be effectively closed for averting the catastrophic warming of 2°C or higher.
-```
+> The world’s failure to reverse emissions this decade means that instead of having 20 years — 2010 to 2030 — to cut emissions some 25 percent, we now have 12 years to cut CO2 emissions more than 30 percent.
+
+
+> Here’s one way to frame the urgency: If the world does not make substantial and sustained progress in cutting total global warming emissions by 2030, then the window will be effectively closed for averting the catastrophic warming of 2°C or higher.
