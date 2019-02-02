@@ -4,7 +4,7 @@ This is about what you can do personally, each human being on this planet. We ha
 
 ## Start Today
 
-Start today. Don't so small steps. We have to take drastic steps. EACH OF US. Let's do this!
+Start today. Don't do small steps. We have to take drastic steps. EACH OF US. Let's do this!
 
 ## Notes
 
