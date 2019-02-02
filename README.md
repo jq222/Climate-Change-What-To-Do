@@ -2,11 +2,21 @@
 
 This is about what you can do personally, each human being on this planet. We have to ALL do this together. This is really so important. We must come together and do this. We can put aside our differences and do this. Our future depends on it. There is NO TIME left. We must do this.
 
+WE HAVE TO TRY. 
+
 ## Start Today
 
 Start today. Don't do small steps. We have to take drastic steps. EACH OF US. Let's do this!
 
-## Notes
+## Get a Team Together
+
+You're starting to take this serioud, you're doing it! Awesome! Now make a team, be inclusive, and get a group of 5, 10, 20, 30, and do all of this together.
+
+## In the Issues section, share what you and your team are doing!
+
+https://github.com/jq222/what-you-can-do-climate-change/issues
+
+## TO DO LIST
 
 ### From New York Times
 
@@ -36,4 +46,14 @@ Some highlights:
 1. Don't invest in fossil fuels
 1. Invest in renewables
 1. Eat meat-free meals, don't waste food, buy organic and local when possible, grow your own
+
+### From Greenpace
+
+https://www.greenpeace.org/archive-international/en/campaigns/climate-change/Solutions/What-you-can-do/
+
+1. Save energy and save money. (Switch off appliances/TVs/monitors/computers/etc when not in use, use Energy Efficient lighting like LEDs or CFLs, use Energy Efficient appliances, insulate your home, use programmable thermostats)
+1. Use Renewable Energy
+1. Use Climate-Friendly Transportation (Bike, Car share, Public transportation, use an Electric vehicle, **Don't Fly in an Airplane**)
+1. Change to Low-Meat diets!
+
 
