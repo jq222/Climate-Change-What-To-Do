@@ -10,7 +10,7 @@ Start today. Don't do small steps. We have to take drastic steps. EACH OF US. Le
 
 ## Get a Team Together
 
-You're starting to take this serioud, you're doing it! Awesome! Now make a team, be inclusive, and get a group of 5, 10, 20, 30, and do all of this together.
+You're starting to take this seriouly, you're doing it! Awesome! Now make a team, be inclusive, and get a group of 5, 10, 20, 30, and do all of this together.
 
 ## In the Issues section, share what you and your team are doing!
 
